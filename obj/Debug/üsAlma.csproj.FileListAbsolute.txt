@@ -1,0 +1,8 @@
+C:\Users\İmar Barisi\Desktop\c#\üsAlma\bin\Debug\üsAlma.exe.config
+C:\Users\İmar Barisi\Desktop\c#\üsAlma\bin\Debug\üsAlma.exe
+C:\Users\İmar Barisi\Desktop\c#\üsAlma\bin\Debug\üsAlma.pdb
+C:\Users\İmar Barisi\Desktop\c#\üsAlma\obj\Debug\üsAlma.csproj.AssemblyReference.cache
+C:\Users\İmar Barisi\Desktop\c#\üsAlma\obj\Debug\üsAlma.csproj.SuggestedBindingRedirects.cache
+C:\Users\İmar Barisi\Desktop\c#\üsAlma\obj\Debug\üsAlma.csproj.CoreCompileInputs.cache
+C:\Users\İmar Barisi\Desktop\c#\üsAlma\obj\Debug\üsAlma.exe
+C:\Users\İmar Barisi\Desktop\c#\üsAlma\obj\Debug\üsAlma.pdb
